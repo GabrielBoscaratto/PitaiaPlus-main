@@ -9,6 +9,15 @@ Além disso, nosso site oferece uma plataforma para os usuários interagirem ent
 
 Aqui na nossa plataforma, você encontrará os seus animes favoritos, os mais populares e os mais recentes. Assista a tudo o que você ama, onde e quando quiser. Venha fazer parte da nossa comunidade e desfrute do melhor da cultura japonesa no mundo dos animes.</p>
 
+<H1> o que você encontra aqui? <h1>
+<p align="center"> Basicamente é econtrado uma estrutura de um site de streaming com sincronização ao banco de dados, aonde podem se encontrar categorias e filtros de animes (cultura japonesa) e animações (cultura ocidental)<p>
+<h1>🖥️tecnologias usadas🖥️ <h1>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>PHP</li>
+</ul>
+
 <img src="/assets/Login.png">
 <hr>
 <img src="/assets/Cadastro.png">
